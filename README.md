@@ -1,3 +1,3 @@
 # KPMG-Virtual-Internship
 
-![](kpmg_virtual_internship.png)
+![Test Image 1](KPMG_Virtual_Internship.png)
