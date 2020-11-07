@@ -1,4 +1,3 @@
 # KPMG-Virtual-Internship
 
-[embed]http://example.com/file.pdf[/embed]
-KPMG virtual internship.pdf
+[embed]KPMG_virtual_internship.pdf[/embed]
